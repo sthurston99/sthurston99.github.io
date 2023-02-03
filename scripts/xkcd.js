@@ -6,7 +6,7 @@ function dispxkcd(xkcdjson) {
 	comictitle.innerHTML = xkcdjson.title;
 }
 
-fetch("https://cors.bridged.cc/https://xkcd.com/info.0.json")
+fetch('https://corsproxy.io/?' + encodeURIComponent('https://xkcd.com/info.0.json'))
 	.then(rsp => rsp.json())
 	.then(data => dispxkcd(data))
 	.catch(function (error) {
