@@ -3,21 +3,21 @@
 }
 
 body {
-	background-color: #17181C;
+	background-color: #24273a;
 	font-family: 'Trebuchet MS';
 	margin: 0;
 	padding: 0;
 }
 
 h1, h2, h3, h4, h5, h6, i, p {
-	color: #DDDDDD;
+	color: #cad3f5;
 }
 
 .container {
 	flex: 1;
 	margin: 1em;
 	padding: 1em;
-	background-color: #1F2228;
+	background-color: #363a4f;
 }
 
 .row {
@@ -33,7 +33,7 @@ img.centered {
 #banner {
 	padding-top: 8em;
 	width: 100%;
-	background-color: #1B4867;
+	background-color: #7dc4e4;
 	text-align: center;
 }
 
