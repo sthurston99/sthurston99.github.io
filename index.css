@@ -9,14 +9,19 @@ body {
 	padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, i {
+h1, h2, h3, h4, h5, h6, i, p {
 	color: #DDDDDD;
 }
 
 .container {
+	flex: 1;
 	margin: 1em;
 	padding: 1em;
 	background-color: #1F2228;
+}
+
+.row {
+	display: flex;
 }
 
 img.centered {
