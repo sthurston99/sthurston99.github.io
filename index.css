@@ -10,8 +10,14 @@ body {
 	padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, i, p {
-	color: #cad3f5;
+p {
+	margin-left: 40em;
+	margin-right:40em;
+}
+
+a {
+	color: #7dc4e4;
+	text-decoration: none;
 }
 
 .container {
