@@ -29,6 +29,7 @@ a {
 
 .row {
 	display: flex;
+	justify-content: center;
 }
 
 img.centered {
