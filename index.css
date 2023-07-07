@@ -11,8 +11,8 @@ body {
 }
 
 p {
-	margin-left: 40em;
-	margin-right:40em;
+	margin-left: 4em;
+	margin-right: 4em;
 }
 
 a {
@@ -40,7 +40,7 @@ img.centered {
 }
 
 #banner {
-	padding-top: 8em;
+	padding-top: 4em;
 	width: 100%;
 	background-color: #7dc4e4;
 	text-align: center;
